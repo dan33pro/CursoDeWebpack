@@ -28,4 +28,8 @@ Podemos cambiar entre modos con el siguiente comando, recordemos los modos
 npx webpack --mode nameMode
 ```
 
-Para efectos practicos creamos una función suma que podemos importar
+Para efectos practicos creamos una función suma que podemos
+importar, al cambiar entre modos veremos que una de las cosas
+que hace Webpack es optimizar nuestro codigo, cambiando cosas que 
+pueden no ser muy necesarias.
+
