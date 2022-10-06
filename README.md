@@ -22,7 +22,7 @@ Podemos cambiar entre modos con el siguiente comando, recordemos los modos
 
 - development (Añade particularidades para debug entre otras.)
 - production
-- 
+- (penidente)
 
 ```npm
 npx webpack --mode nameMode
