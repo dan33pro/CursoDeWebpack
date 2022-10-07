@@ -33,3 +33,6 @@ importar, al cambiar entre modos veremos que una de las cosas
 que hace Webpack es optimizar nuestro codigo, cambiando cosas que 
 pueden no ser muy necesarias.
 
+## Continuación
+
+Para ver la continuación de este repo revisar [js-portfolio](https://github.com/dan33pro/Webpack-portafolio-JS)
